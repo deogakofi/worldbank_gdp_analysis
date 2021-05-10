@@ -1,11 +1,12 @@
-CRON SCHEDULER INTERPRETER PROJECT
+WORLDBANK GDP ANALYSIS PROJECT
 ------------------------------------
 Specification
 -------------------
 
-As part of this exercise, you would write a Python script to retrieve publicly available data and perform analysis on that data using SQL.
-Publicly available data is available from the World Bank. One dataset which contains information about countries is available through World Bank API and its documentation provides all the necessary details on how to use it. Another dataset which includes Gross Domestic Product (GDP) data in CSV format is available for download from World Bank Data Catalog.
-We recommend you keep notes of your design, problems you have encountered as well as steps you have taken to resolve them. We might ask you to present your solution.
+As part of this exercise, you would write a Python script to retrieve publicly available data and perform analysis on that data using SQL. <br>
+Publicly available data is available from the World Bank. One dataset which contains information about countries is available through World Bank API and its documentation provides all the necessary details on how to use it. <br>
+Another dataset which includes Gross Domestic Product (GDP) data in CSV format is available for download from World Bank Data Catalog. <br>
+We recommend you keep notes of your design, problems you have encountered as well as steps you have taken to resolve them. We might ask you to present your solution. <br>
 
 
 Objectives

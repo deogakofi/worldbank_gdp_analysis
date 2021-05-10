@@ -6,6 +6,8 @@ setup:
 	    # source ~/.lyst/bin/activate
 	    python3 -m venv ~/.mudano
 			pip3 install -r requirements.txt
+			pip3 install pylint
+			pip3 install pytest
 
 
 
