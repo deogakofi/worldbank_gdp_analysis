@@ -1,4 +1,4 @@
---MUDANO WORLDBANK EXERCISE
+-- WORLDBANK EXERCISE
 
 -- Q1. List countries with income level of "Upper middle income"
 SELECT name AS upper_middle_income_countries FROM countries
